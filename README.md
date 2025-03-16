@@ -11,7 +11,7 @@ This fun and harmless hacking prank is designed to scare your friends by making 
 
 ## How to Use
 - Open this file in a web browser.
-- Share it with your friends and ask them to enter their Gmail ID.
+- Share it with your friends and ask them to enter their Gmail ID
 - Watch their reactions as they panic! 😂
 
 ## Disclaimer
